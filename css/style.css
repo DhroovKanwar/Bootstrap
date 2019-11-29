@@ -1,0 +1,76 @@
+#topheader
+{
+    background-color: blanchedalmond;
+    border: 1px solid silver;
+}
+#topheader a
+{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size:0.89rem;
+}
+.container-fluid
+{
+    padding-left:0;
+    padding-right:0;
+
+}
+
+nav ul li a 
+{
+    font-size:1.1rem;
+    font-weight:600;
+      
+
+}
+/*Start footer*/
+.full-footer
+{
+    background-color:#686de0 ;
+   
+    width:100%;
+}
+/*End footer*/
+.top-footer p
+{
+    color:white;
+}
+.top-footer a
+{
+    color:white;
+    font-weight: 600;
+}
+.top-footer h3
+{
+    color:white;
+   
+}
+.bottom-footer
+{
+    background-color:darkslategrey;
+ 
+
+}
+.bottom-footer p
+{
+    color: whitesmoke;
+
+}
+/*start : Home page hero section*/
+.top-hero-section
+{
+background-color: #4834d4;
+color:white;
+}
+.top-hero-section a
+{
+    color:white;
+    font-weight:600;
+
+
+}
+.qualities-img
+{
+    width: 200px;
+}
+/*end : Home page hero section*/
